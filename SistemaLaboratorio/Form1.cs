@@ -19,7 +19,7 @@ namespace SistemaLaboratorio
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Prueba nueva");
+            MessageBox.Show("Prueba nueva2");
         }
     }
 }
